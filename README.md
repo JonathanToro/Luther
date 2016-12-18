@@ -9,4 +9,6 @@ This project consists of three parts:
 
 Presentation slides and code are included in this repo
 
-For a detailed description of my methodology and results, please refer to my blog.
+For a detailed description of my methodology and results, please refer to [my blog][1].
+
+[1]: https://jonathantoro.github.io/Predicting-Movie-Ratings/
